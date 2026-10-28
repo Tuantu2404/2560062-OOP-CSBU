@@ -1,0 +1,3 @@
+=== DANH SACH DON HANG MY PHAM ===
+Ma Don: ORD001, Khach Hang: Nguyen Thi Hoa, SDT: 0901234567, Ngay: 2026-06-07, Goi: Romantic Package, Tong Tien: 3000000.0 VND
+Ma Don: ORD002, Khach Hang: Tran Van Nam, SDT: 0987654321, Ngay: 2026-06-07, Goi: Fresh-Air Package, Tong Tien: 2400000.0 VND
